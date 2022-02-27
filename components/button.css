@@ -1,0 +1,8 @@
+.btn-yellow {
+	background-color: rgb(255,127,80);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto';
+}
